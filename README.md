@@ -126,13 +126,13 @@ Visit `http://localhost:3000` to use the dashboard.
 ## Screenshots
 
 ### Landing Page
-![Landing Page](../benjqminn.github.io/images/obscura_landing.png)
+![Landing Page](Screenshots/obscura_landing.png)
 
 ### Live Alert Feed
-![Threat Dashboard](../benjqminn.github.io/images/threat_dashboard.png)
+![Threat Dashboard](Screenshots/threat_dashboard.png)
 
 ### Alert Type Visualization
-![Alert Chart](../benjqminn.github.io/images/alert_chart.png)
+![Alert Chart](Screenshots/alert_chart.png)
 
 
 
