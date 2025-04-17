@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="./assets/obscura_header.png" alt="Obscura Logo" width="600"/>
+</p>
+
+---
+
+# Obscura Threat Intelligence Dashboard
+
+**Obscura** is a real-time threat analysis platform for Security Operations Center (SOC) simulation and cyber threat hunting.
+
+It features live PCAP parsing, rule-based alert detection (YARA, SYN scan, brute-force detection), and a custom-built frontend dashboard using **React**, **TailwindCSS**, and **Chart.js**. This project was designed to showcase advanced cybersecurity skills across full-stack dev, threat detection, and cloud-ready deployment pipelines.
+
+> /ˌɑbˈskjʊrə/ — _hidden, unknown, unseen._  
+> A lens into the invisible world of threats.
+
 ## Obscura Usage
 
 To get started with Obscura, you need to have access to the private repository. For security reasons, the source code is not publicly available. However, this `README.md` is public to showcase legitimacy and technical depth.
