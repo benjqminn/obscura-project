@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="./assets/obscura_header.png" alt="Obscura Logo" width="600"/>
+<p>
+  <img src="Screenshots/obscura_header.png"/>
 </p>
 
 ---
