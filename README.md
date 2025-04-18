@@ -6,7 +6,7 @@
 
 # Obscura Threat Intelligence Dashboard
 
-**Obscura** is a real-time threat analysis platform for Security Operations Center (SOC) simulation and cyber threat hunting.
+**Obscura** is a real-time threat analysis platform for Security Operations Center (SOC) simulation and cyber threat hunting, created by Benjamin Taylor (myself).
 
 It features live PCAP parsing, rule-based alert detection (YARA, SYN scan, brute-force detection), and a custom-built frontend dashboard using **React**, **TailwindCSS**, and **Chart.js**. This project was designed to showcase advanced cybersecurity skills across full-stack dev, threat detection, and cloud-ready deployment pipelines.
 
