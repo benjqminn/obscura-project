@@ -83,7 +83,7 @@ This is the development workflow I follow when building out Obscura.
 ```bash
 # Clone the repository
 # (Requires GitHub access token)
-git clone https://github.com/YOUR_USERNAME/obscura.git
+git clone https://github.com/benjqminn/obscura.git
 cd obscura
 
 # Set up virtualenv and install dependencies
