@@ -17,7 +17,7 @@ It features live PCAP parsing, rule-based alert detection (YARA, SYN scan, brute
 
 To get started with Obscura, you need to have access to the private repository. For security reasons, the source code is not publicly available. However, this `README.md` is public to showcase legitimacy and technical depth.
 
-If you're a recruiter coming from LinkedIn and would like to verify the implementation, feel free to DM me on LinkedIn. I’ll provide you with a `fine-grained personal access token` to review the source securely.
+If you're a recruiter coming from LinkedIn and would like to verify the implementation, feel free to [DM me on LinkedIn](https://www.linkedin.com/in/btayl106). I’ll provide you with a `fine-grained personal access token` to review the source securely.
 
 
 
