@@ -17,7 +17,7 @@ It features live PCAP parsing, rule-based alert detection (YARA, SYN scan, brute
 
 To get started with Obscura, you need to have access to the private repository. For security reasons, the source code is not publicly available. However, this `README.md` is public to showcase legitimacy and technical depth.
 
-If you're a recruiter coming from LinkedIn and would like to verify the implementation, feel free to [DM me on LinkedIn](https://www.linkedin.com/in/btayl106). I’ll provide you with a `fine-grained personal access token` to review the source securely.
+If you're a recruiter coming from LinkedIn and would like to verify the implementation, feel free to [DM me on LinkedIn](https://www.linkedin.com/in/btayl106). We can arrange a guided source review or discuss appropriate repository access.
 
 
 
@@ -72,7 +72,7 @@ This is the development workflow I follow when building out Obscura.
 ### 5. Deployment
 - Dockerized backend + frontend
 - Ready for Render deployment
-- Public-facing dashboard w/ recruiter-facing token control
+- Public-facing dashboard with source review available on request
 
 
 
@@ -82,7 +82,7 @@ This is the development workflow I follow when building out Obscura.
 
 ```bash
 # Clone the repository
-# (Requires GitHub access token)
+# Requires access to the private repository
 git clone https://github.com/benjqminn/obscura.git
 cd obscura
 
@@ -120,7 +120,7 @@ Visit `http://localhost:3000` to use the dashboard.
 - 📊 **Interactive bar chart** showing alert types
 - 🧠 **Smart upload system**: reprocesses `.pcap` files and updates alerts
 - 🌐 **Modern UI/UX** with TailwindCSS, dark mode, hover effects
-- 🔒 **Private GitHub repo access via token**
+- 🔒 **Private implementation; source review available on request**
 
 
 
@@ -155,7 +155,7 @@ Visit `http://localhost:3000` to use the dashboard.
 
 If you’re a recruiter or engineer interested in the code:
 - 🔗 [DM me on LinkedIn](https://www.linkedin.com/in/btayl106)
-- I’ll provide you with a personal access token to the private repo.
+- Contact me on LinkedIn to arrange a guided source review or discuss appropriate repository access.
 
 Thank you for checking out **Obscura**, my full-stack, real-time SOC simulation & threat dashboard project.
 
